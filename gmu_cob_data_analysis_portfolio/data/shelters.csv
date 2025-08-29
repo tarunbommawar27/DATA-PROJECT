@@ -1,0 +1,16 @@
+shelter_id,county,capacity
+ARL-1,Arlington,66
+ARL-2,Arlington,96
+ARL-3,Arlington,70
+FAI-1,Fairfax,45
+FAI-2,Fairfax,79
+FAI-3,Fairfax,51
+LOU-1,Loudoun,92
+LOU-2,Loudoun,110
+LOU-3,Loudoun,49
+PRI-1,Prince William,84
+PRI-2,Prince William,56
+PRI-3,Prince William,65
+ALE-1,Alexandria,101
+ALE-2,Alexandria,85
+ALE-3,Alexandria,103
